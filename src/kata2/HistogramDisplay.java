@@ -9,7 +9,7 @@ package kata2;
  *
  * @author Usuario
  */
-public interface HistogramDisplaya {
+public interface HistogramDisplay {
 
     public void show(Histogram histogram);
     
